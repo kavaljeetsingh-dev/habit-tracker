@@ -1,1 +1,1 @@
-Welcome to Habit Tracker
+Welcome to the Habit Tracker
